@@ -1,0 +1,63 @@
+body{
+    margin: 0px;
+}
+*{
+
+   font-family:cursive
+}
+
+a{
+    text-decoration: none;
+    color: rgb(38, 140, 217);
+}
+#Title{
+    background-color: red;
+    color: white;
+  text-align: center;
+    border-radius: 12px;
+    width: 50%;
+ font-family: sans-serif;
+}
+
+.Title{
+    margin-left: 50px;
+}
+main img{
+    margin: 20px 50px
+}
+main p{
+    font-size: 20px;
+    font-weight: bold;
+    font-style: italic;
+}
+table{
+    width: 60%
+}
+
+th{
+    background-color: brown;
+    color: antiquewhite;
+}
+input{ 
+    border-radius: 12px;
+    background-color: aliceblue;
+    border: 2px solid green;
+}
+input:focus{
+  background-color: rgb(25, 135, 214);
+  color: white;
+  }
+
+ .btn{
+    background-color: blue;
+    color: white;
+    border-radius: 12px;
+    width: 10%;
+    height: 30px;
+    border: none;
+    font-size: 90%;
+ } 
+ .btn:hover{
+    background-color: rgb(6, 45, 80);
+    cursor: pointer;
+ }
